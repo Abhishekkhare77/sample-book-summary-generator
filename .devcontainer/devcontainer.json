@@ -23,7 +23,7 @@
     ],
     "terminal.integrated.shell.linux": "/bin/bash"
   },
-"mounts": [
+"mounts": [ //mount structure changed to array of objects
   { 
     "source": "${localWorkspaceFolder}/frontend", 
     "target": "/workspace/frontend", 
